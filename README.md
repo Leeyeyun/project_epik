@@ -1,2 +1,2 @@
 # project_epik
-epik detail page
+epik landing page
